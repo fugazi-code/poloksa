@@ -158,7 +158,7 @@
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer-copy-right">
                             <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                                All rights reserved
+                                Yaramay Computer Maintenance Services
                             </p>
                         </div>
                     </div>
@@ -216,5 +216,6 @@
 <script src="./assets/js/plugins.js"></script>
 <script src="./assets/js/main.js"></script>
 
+<!-- Author: Renier R. Trenuela II -->
 </body>
 </html>
