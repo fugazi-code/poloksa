@@ -8,6 +8,11 @@
     <meta property="og:description" content="{{ env('APP_NAME') }}">
     <meta property="og:image" content="{{ asset('images/polo-logo-thumb.png') }}">
     <meta property="og:url" content="{{ asset('images/polo-logo-thumb.png') }}">
+    <meta name="twitter:title" content="{{ env('APP_NAME') }}">
+    <meta name="twitter:description" content="{{ env('APP_NAME') }}">
+    <meta name="twitter:image" content="{{ asset('images/polo-logo-thumb.png') }}">
+    <meta name="twitter:card" content="summary_large_image">
+
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
