@@ -47,7 +47,8 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo ml-4">
-                                <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}" width="45%" alt=""></a>
+                                <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}" width="45%"
+                                                          alt=""></a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-8">
@@ -64,10 +65,11 @@
                                             </ul>
                                         </li>
                                         <li><a href="contact.html">Contact</a></li>
-                                        <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i class="ti-plus"></i> Book an Appointment</a></li>
-{{--                                        <li class="login"><a href="#">--}}
-{{--                                                <i class="ti-user"></i> Sign in or Register</a>--}}
-{{--                                        </li>--}}
+                                        <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
+                                                    class="ti-plus"></i> Book an Appointment</a></li>
+                                        {{--                                        <li class="login"><a href="#">--}}
+                                        {{--                                                <i class="ti-user"></i> Sign in or Register</a>--}}
+                                        {{--                                        </li>--}}
                                     </ul>
                                 </nav>
                             </div>
@@ -200,28 +202,32 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- Popular Locations End -->
+<!-- Popular Locations End -->
     <!-- Services Area Start -->
-    <div class="services-area pt-150 pb-150 section-bg" data-background="assets/img/gallery/section_bg02.jpg">
+    <div class="services-area section-bg"
+         style="background-image: url('https://images.freeimages.com/images/large-previews/93b/riyadh-city-1451164.jpg');background-size: contain;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <!-- Section Tittle -->
-                    <div class="section-tittle section-tittle2 text-center mb-80">
-                        <span>What we Offer</span>
-                        <h2>Services</h2>
+                    <div class="section-tittle section-tittle2 text-center">
+
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-between">
+            <div class="row justify-content-between mt-40">
                 <div class="col-lg-3 col-md-6">
                     <div class="single-services text-center mb-50">
                         <div class="services-icon">
                             <span class="flaticon-list"></span>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">1. Appointment System</a></h5>
-                            <p>With an appointment system, the non-urgent client can schedule their request in advance. As this eliminates wait times upon arrival, it has a significant impact on the client experience.</p>
+                            <h5><a href="#" style="
+    text-shadow: 0 0 8px black;
+">1. Appointment System</a></h5>
+                            <p>With an appointment system, the non-urgent client can schedule their request in advance.
+                                As this eliminates wait times upon arrival, it has a significant impact on the client
+                                experience.</p>
                         </div>
                         <!-- Shpape -->
                         <img class="shape1 d-none d-lg-block" src="assets/img/icon/serices1.png" alt="">
@@ -233,8 +239,11 @@
                             <span class="flaticon-problem"></span>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">2. Welfare Support</a></h5>
-                            <p>Welfare refers to a range of government programs that provide financial or other aid to individuals or groups who cannot support themselves.</p>
+                            <h5><a href="#" style="
+    text-shadow: 0 0 8px black;
+">2. Welfare Support</a></h5>
+                            <p>Welfare refers to a range of government programs that provide financial or other aid to
+                                individuals or groups who cannot support themselves.</p>
                         </div>
                         <img class="shape2 d-none d-lg-block" src="assets/img/icon/serices2.png" alt="">
                     </div>
@@ -245,8 +254,12 @@
                             <span class="flaticon-respect"></span>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">3. Employment Facilitation</a></h5>
-                            <p> The importance of being equipped with the right labor market information and advised jobseekers and students alike to be guided by this information as they choose their career path or profession.</p>
+                            <h5><a href="#" style="
+    text-shadow: 0 0 8px black;
+">3. Employment Facilitation</a></h5>
+                            <p> The importance of being equipped with the right labor market information and advised
+                                jobseekers and students alike to be guided by this information as they choose their
+                                career path or profession.</p>
                         </div>
                     </div>
                 </div>
@@ -318,7 +331,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- Categories Area End -->
+<!-- Categories Area End -->
     <!-- peoples-visit Start -->
 {{--    <div class="peoples-visit dining-padding-top">--}}
 {{--        <!-- Single Left img -->--}}
@@ -359,7 +372,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- peoples-visit End -->
+<!-- peoples-visit End -->
     <!-- Testimonial Start -->
 {{--    <div class="testimonial-area testimonial-padding">--}}
 {{--        <div class="container">--}}
@@ -418,7 +431,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- Testimonial End -->
+<!-- Testimonial End -->
     <!-- Subscribe Area Start -->
 {{--    <div class="subscribe-area section-bg pt-150 pb-150" data-background="assets/img/gallery/section_bg04.jpg">--}}
 {{--        <div class="container">--}}
@@ -442,7 +455,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- Subscribe Area End -->
+<!-- Subscribe Area End -->
     <!-- Blog Ara Start -->
 {{--    <div class="home-blog-area section-padding30">--}}
 {{--        <div class="container">--}}
@@ -498,7 +511,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <!-- Blog Ara End -->
+<!-- Blog Ara End -->
 
 </main>
 <footer>
@@ -512,55 +525,58 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                    <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}" width="45%" alt=""></a>
+                                    <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}"
+                                                              width="45%" alt=""></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-{{--                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">--}}
-{{--                        <div class="single-footer-caption mb-50">--}}
-{{--                            <div class="footer-tittle">--}}
-{{--                                <h4>Quick Link</h4>--}}
-{{--                                <ul>--}}
-{{--                                    <li><a href="#">Home</a></li>--}}
-{{--                                    <li><a href="#">Listing</a></li>--}}
-{{--                                    <li><a href="#">About</a></li>--}}
-{{--                                    <li><a href="#">Contact</a></li>--}}
-{{--                                </ul>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">--}}
-{{--                        <div class="single-footer-caption mb-50">--}}
-{{--                            <div class="footer-tittle">--}}
-{{--                                <h4>Categories</h4>--}}
-{{--                                <ul>--}}
-{{--                                    <li><a href="#">Reasonable Hotel</a></li>--}}
-{{--                                    <li><a href="#">Popular Restaurant</a></li>--}}
-{{--                                    <li><a href="#">Easy Shopping</a></li>--}}
-{{--                                    <li><a href="#">Night Life</a></li>--}}
-{{--                                </ul>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">--}}
-{{--                        <div class="single-footer-caption mb-50">--}}
-{{--                            <div class="footer-tittle">--}}
-{{--                                <h4>Download App</h4>--}}
-{{--                                <ul>--}}
-{{--                                    <li class="app-log"><a href="#"><img src="assets/img/gallery/app-logo.png" alt=""></a></li>--}}
-{{--                                    <li><a href="#"><img src="assets/img/gallery/app-logo2.png" alt=""></a></li>--}}
-{{--                                </ul>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
+                    {{--                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">--}}
+                    {{--                        <div class="single-footer-caption mb-50">--}}
+                    {{--                            <div class="footer-tittle">--}}
+                    {{--                                <h4>Quick Link</h4>--}}
+                    {{--                                <ul>--}}
+                    {{--                                    <li><a href="#">Home</a></li>--}}
+                    {{--                                    <li><a href="#">Listing</a></li>--}}
+                    {{--                                    <li><a href="#">About</a></li>--}}
+                    {{--                                    <li><a href="#">Contact</a></li>--}}
+                    {{--                                </ul>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
+                    {{--                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">--}}
+                    {{--                        <div class="single-footer-caption mb-50">--}}
+                    {{--                            <div class="footer-tittle">--}}
+                    {{--                                <h4>Categories</h4>--}}
+                    {{--                                <ul>--}}
+                    {{--                                    <li><a href="#">Reasonable Hotel</a></li>--}}
+                    {{--                                    <li><a href="#">Popular Restaurant</a></li>--}}
+                    {{--                                    <li><a href="#">Easy Shopping</a></li>--}}
+                    {{--                                    <li><a href="#">Night Life</a></li>--}}
+                    {{--                                </ul>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
+                    {{--                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">--}}
+                    {{--                        <div class="single-footer-caption mb-50">--}}
+                    {{--                            <div class="footer-tittle">--}}
+                    {{--                                <h4>Download App</h4>--}}
+                    {{--                                <ul>--}}
+                    {{--                                    <li class="app-log"><a href="#"><img src="assets/img/gallery/app-logo.png" alt=""></a></li>--}}
+                    {{--                                    <li><a href="#"><img src="assets/img/gallery/app-logo2.png" alt=""></a></li>--}}
+                    {{--                                </ul>--}}
+                    {{--                            </div>--}}
+                    {{--                        </div>--}}
+                    {{--                    </div>--}}
                 </div>
             </div>
             <div class="footer-bottom">
                 <div class="row d-flex justify-content-between align-items-center">
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer-copy-right">
-                            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</p>
+                            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                                All rights reserved
+                            </p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4">
@@ -579,7 +595,7 @@
     <!-- Footer End-->
 </footer>
 <!-- Scroll Up -->
-<div id="back-top" >
+<div id="back-top">
     <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
 </div>
 

@@ -6,3 +6,7 @@
 .slider-height {
     min-height: 812px !important;
 }
+
+.services-area .single-services .services-cap p {
+    color: #7f88ff !important;
+}
