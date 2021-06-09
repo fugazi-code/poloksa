@@ -1,0 +1,8 @@
+.slider-area {
+    background-image: url(../../images/bg-header.jpg) !important;
+    background-size: contain;
+}
+
+.slider-height {
+    min-height: 812px !important;
+}
