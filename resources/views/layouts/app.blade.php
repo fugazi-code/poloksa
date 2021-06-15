@@ -74,6 +74,7 @@
                                             </ul>
                                         </li>
                                         <li><a href="#">Contact</a></li>
+                                        <li><a href="#">Complaint Form</a></li>
                                         <li><a href="http://tabang.poloksa-ph.com/login">Tabang System</a></li>
                                         <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
                                                     class="ti-plus"></i> Book an Appointment</a></li>
