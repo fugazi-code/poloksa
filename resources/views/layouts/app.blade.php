@@ -69,14 +69,14 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="/">Home</a></li>
-                                        <li><a href="#">About</a></li>
+                                        <li><a href="{{ route('about-us') }}">About Us</a></li>
+                                        <li><a href="{{ route('contact') }}">Contact</a></li>
                                         <li><a href="#">Agencies</a>
                                             <ul class="submenu">
                                                 <li><a href="#">Blocklist</a></li>
                                                 <li><a href="#">Lifted Suspension</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Contact</a></li>
                                         <li><a href="#">Complaint Form</a></li>
                                         <li><a href="http://tabang.poloksa-ph.com/login">Tabang System</a></li>
                                         <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
@@ -170,10 +170,11 @@
                     <div class="col-xl-3 col-lg-4">
                         <!-- Footer Social -->
                         <div class="footer-social f-right">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/POLO-Eastern-Region-Operations-KSA-107568820576350"><i
+                                    class="fab fa-facebook-f"></i></a>
+                            {{--                            <a href="#"><i class="fab fa-twitter"></i></a>--}}
+                            {{--                            <a href="#"><i class="fas fa-globe"></i></a>--}}
+                            {{--                            <a href="#"><i class="fab fa-instagram"></i></a>--}}
                         </div>
                     </div>
                 </div>

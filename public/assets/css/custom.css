@@ -1,6 +1,10 @@
 .slider-area {
     background-image: url(../../images/bg-header.jpg) !important;
-    background-size: contain;
+    background-size: contain !important;
+    background-position: top !important;
+}
+.hero-area2 {
+    background-image: url(../../images/bg-header.jpg) !important;
 }
 
 .slider-height {
