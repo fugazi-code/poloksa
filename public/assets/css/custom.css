@@ -10,3 +10,8 @@
 .services-area .single-services .services-cap p {
     color: #7f88ff !important;
 }
+
+.slider-area .hero__caption span {
+    color: #75ebff !important;
+    font-family: 'Mate SC', serif !important;
+}
