@@ -28,97 +28,41 @@
         </div>
     </div>
     <!--Hero Area End-->
-    <!-- Popular Locations Start -->
-    {{--    <div class="popular-location section-padding30">--}}
-    {{--        <div class="container">--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-12">--}}
-    {{--                    <!-- Section Tittle -->--}}
-    {{--                    <div class="section-tittle text-center mb-80">--}}
-    {{--                        <span>Most visited places</span>--}}
-    {{--                        <h2>Popular Locations</h2>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location1.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>New York</p>--}}
-    {{--                            <a href="#" class="location-btn">65 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location2.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>Paris</p>--}}
-    {{--                            <a href="#" class="location-btn">60 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location3.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>Rome</p>--}}
-    {{--                            <a href="#" class="location-btn">50 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location4.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>Italy</p>--}}
-    {{--                            <a href="#" class="location-btn">28 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location5.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>Nepal</p>--}}
-    {{--                            <a href="#" class="location-btn">99 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-location mb-30">--}}
-    {{--                        <div class="location-img">--}}
-    {{--                            <img src="assets/img/gallery/location6.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="location-details">--}}
-    {{--                            <p>indonesia</p>--}}
-    {{--                            <a href="#" class="location-btn">78 <i class="ti-plus"></i> Location</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--            <!-- More Btn -->--}}
-    {{--            <div class="row justify-content-center">--}}
-    {{--                <div class="room-btn pt-20">--}}
-    {{--                    <a href="catagori.html" class="btn view-btn1">View All Places</a>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- Popular Locations End -->
+    <!-- About Details Start -->
+    <div id="about-detail" class="about-details section-padding2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-md-10">
+                    <!-- Section Tittle -->
+                    <div class="section-tittle section-tittle5 mb-80">
+                        <span>About our company</span>
+                        <h2>Promote and protect the general welfare of Filipino workers abroad.</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-between">
+                <div class="col-lg-6">
+                    <h3>Guiding Principles</h3>
+                    <p>The POLO shall provide maximum services to Filipino Migrant Workers to protect their rights and
+                        promote their welfare. In pursuit of this mandate, the POLO shall focus on the following key
+                        areas, namely: employment protection and facilitation, provision of welfare services and skills
+                        enhancement and other training programs, employment promotion and market development, and
+                        linkages with the host government, relevant foreign embassies/consulate, international
+                        organizations, the Filipino community and non-governmental institutions in the post.</p>
+                </div>
+                <div class="col-lg-5">
+                    <h3>Plan Overview</h3>
+                    <p>The Philippine Overseas Labor Office (POLO) is the Department of Labor and Employment’s (DOLE)
+                        link to the world. It is directly under the Office of the Secretary of Labor. It acts as the
+                        operating arm of DOLE for the administration and enforcement of its policies and programs
+                        applicable to the Overseas Filipino Workers (OFW).</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About Details End -->
     <!-- Services Area Start -->
-    <div class="services-area section-bg"
+    <div id="services-section" class="services-area section-bg"
          style="background-image: url('https://images.freeimages.com/images/large-previews/93b/riyadh-city-1451164.jpg');background-size: contain;">
         <div class="container">
             <div class="row">
@@ -181,249 +125,102 @@
         </div>
     </div>
     <!-- Services Area End -->
-    <!-- Categories Area Start -->
-    {{--    <div class="categories-area section-padding30">--}}
-    {{--        <div class="container">--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-12">--}}
-    {{--                    <!-- Section Tittle -->--}}
-    {{--                    <div class="section-tittle text-center mb-80">--}}
-    {{--                        <span>We are offering for you</span>--}}
-    {{--                        <h2>Featured Categories</h2>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-3 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-cat text-center mb-50">--}}
-    {{--                        <div class="cat-icon">--}}
-    {{--                            <span class="flaticon-bed"></span>--}}
-    {{--                        </div>--}}
-    {{--                        <div class="cat-cap">--}}
-    {{--                            <h5><a href="catagori.html">Leving Hotel</a></h5>--}}
-    {{--                            <p>Must explain your how this keind denoun pleasure</p>--}}
-    {{--                            <a href="catagori.html">View Details</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-3 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-cat text-center mb-50">--}}
-    {{--                        <div class="cat-icon">--}}
-    {{--                            <span class="flaticon-drink"></span>--}}
-    {{--                        </div>--}}
-    {{--                        <div class="cat-cap">--}}
-    {{--                            <h5><a href="catagori.html">Night Life</a></h5>--}}
-    {{--                            <p>Must explain your how this keind denoun pleasure</p>--}}
-    {{--                            <a href="catagori.html">View Details</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-3 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-cat text-center mb-50">--}}
-    {{--                        <div class="cat-icon">--}}
-    {{--                            <span class="flaticon-home"></span>--}}
-    {{--                        </div>--}}
-    {{--                        <div class="cat-cap">--}}
-    {{--                            <h5><a href="catagori.html">Culture Place</a></h5>--}}
-    {{--                            <p>Must explain your how this keind denoun pleasure</p>--}}
-    {{--                            <a href="catagori.html">View Details</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-lg-3 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-cat text-center mb-50">--}}
-    {{--                        <div class="cat-icon">--}}
-    {{--                            <span class="flaticon-food"></span>--}}
-    {{--                        </div>--}}
-    {{--                        <div class="cat-cap">--}}
-    {{--                            <h5><a href="catagori.html">Resturent</a></h5>--}}
-    {{--                            <p>Must explain your how this keind denoun pleasure</p>--}}
-    {{--                            <a href="catagori.html">View Details</a>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- Categories Area End -->
-    <!-- peoples-visit Start -->
-    {{--    <div class="peoples-visit dining-padding-top">--}}
-    {{--        <!-- Single Left img -->--}}
-    {{--        <div class="single-visit left-img">--}}
-    {{--            <div class="container">--}}
-    {{--                <div class="row justify-content-end">--}}
-    {{--                    <div class="col-lg-8">--}}
-    {{--                        <div class="visit-caption">--}}
-    {{--                            <span>We are offering for you</span>--}}
-    {{--                            <h3>Every Month, Millions of People--}}
-    {{--                                visit this site We’ve Built.</h3>--}}
-    {{--                            <p>Unlike what its name implies, dry cleaning is not actually a 'dry' process. Clothes are soaked in a different solvent.</p>--}}
-    {{--                            <!--Single Visit categories -->--}}
-    {{--                            <div class="visit-categories mb-40">--}}
-    {{--                                <div class="visit-location">--}}
-    {{--                                    <span class="flaticon-travel"></span>--}}
-    {{--                                </div>--}}
-    {{--                                <div class="visit-cap">--}}
-    {{--                                    <h4>Great places in the world</h4>--}}
-    {{--                                    <p>Unlike what its name implies, dry cleaning is not actu  process. Clothes soaked differentent.--}}
-    {{--                                    </p>--}}
-    {{--                                </div>--}}
-    {{--                            </div>--}}
-    {{--                            <!--Single Visit categories -->--}}
-    {{--                            <div class="visit-categories">--}}
-    {{--                                <div class="visit-location">--}}
-    {{--                                    <span class="flaticon-work"></span>--}}
-    {{--                                </div>--}}
-    {{--                                <div class="visit-cap">--}}
-    {{--                                    <h4>Biggest category listing</h4>--}}
-    {{--                                    <p>Unlike what its name implies, dry cleaning is not actu  process. Clothes soaked differentent.--}}
-    {{--                                    </p>--}}
-    {{--                                </div>--}}
-    {{--                            </div>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- peoples-visit End -->
-    <!-- Testimonial Start -->
-    {{--    <div class="testimonial-area testimonial-padding">--}}
-    {{--        <div class="container">--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-12">--}}
-    {{--                    <!-- Section Tittle -->--}}
-    {{--                    <div class="section-tittle text-center mb-80">--}}
-    {{--                        <span>Our client testimonials</span>--}}
-    {{--                        <h2>What our client say</h2>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--            <div class="row align-items-center">--}}
-    {{--                <div class="col-lg-11 col-md-11">--}}
-    {{--                    <div class="h1-testimonial-active">--}}
-    {{--                        <!-- Single Testimonial -->--}}
-    {{--                        <div class="single-testimonial text-center">--}}
-    {{--                            <!-- Testimonial Content -->--}}
-    {{--                            <div class="testimonial-caption ">--}}
-    {{--                                <div class="testimonial-top-cap">--}}
-    {{--                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>--}}
-    {{--                                </div>--}}
-    {{--                                <!-- founder -->--}}
-    {{--                                <div class="testimonial-founder d-flex align-items-center justify-content-center mb-30">--}}
-    {{--                                    <div class="founder-img">--}}
-    {{--                                        <img src="assets/img/testmonial/Homepage_testi.png" alt="">--}}
-    {{--                                    </div>--}}
-    {{--                                    <div class="founder-text">--}}
-    {{--                                        <span>Oliva jems</span>--}}
-    {{--                                        <p>UIX designer</p>--}}
-    {{--                                    </div>--}}
-    {{--                                </div>--}}
-    {{--                            </div>--}}
-    {{--                        </div>--}}
-    {{--                        <!-- Single Testimonial -->--}}
-    {{--                        <div class="single-testimonial text-center">--}}
-    {{--                            <!-- Testimonial Content -->--}}
-    {{--                            <div class="testimonial-caption ">--}}
-    {{--                                <div class="testimonial-top-cap">--}}
-    {{--                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>--}}
-    {{--                                </div>--}}
-    {{--                                <!-- founder -->--}}
-    {{--                                <div class="testimonial-founder d-flex align-items-center justify-content-center mb-30">--}}
-    {{--                                    <div class="founder-img">--}}
-    {{--                                        <img src="assets/img/testmonial/Homepage_testi.png" alt="">--}}
-    {{--                                    </div>--}}
-    {{--                                    <div class="founder-text">--}}
-    {{--                                        <span>Oliva jems</span>--}}
-    {{--                                        <p>UIX designer</p>--}}
-    {{--                                    </div>--}}
-    {{--                                </div>--}}
-    {{--                            </div>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- Testimonial End -->
-    <!-- Subscribe Area Start -->
-    {{--    <div class="subscribe-area section-bg pt-150 pb-150" data-background="assets/img/gallery/section_bg04.jpg">--}}
-    {{--        <div class="container">--}}
-    {{--            <div class="row justify-content-center">--}}
-    {{--                <div class="col-xl-6 col-lg-8">--}}
-    {{--                    <!-- Section Tittle -->--}}
-    {{--                    <div class="section-tittle section-tittle2 text-center mb-40">--}}
-    {{--                        <span>Subscribe out newslatter</span>--}}
-    {{--                        <h2>Subscribe For Newsletter</h2>--}}
-    {{--                    </div>--}}
-    {{--                    <!--Hero form -->--}}
-    {{--                    <form action="#" class="search-box">--}}
-    {{--                        <div class="input-form">--}}
-    {{--                            <input type="text" placeholder="What are you looking for?">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="search-form">--}}
-    {{--                            <a href="#">Send Now</a>--}}
-    {{--                        </div>--}}
-    {{--                    </form>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- Subscribe Area End -->
-    <!-- Blog Ara Start -->
-    {{--    <div class="home-blog-area section-padding30">--}}
-    {{--        <div class="container">--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-lg-12">--}}
-    {{--                    <!-- Section Tittle -->--}}
-    {{--                    <div class="section-tittle text-center mb-70">--}}
-    {{--                        <span>Our blog</span>--}}
-    {{--                        <h2>News and tips</h2>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--            <div class="row">--}}
-    {{--                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-team mb-30">--}}
-    {{--                        <div class="team-img">--}}
-    {{--                            <img src="assets/img/gallery/home_blog1.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="team-caption">--}}
-    {{--                            <span>HEALTH & CARE</span>--}}
-    {{--                            <h3><a href="blog.html">The Best SPA Salons For--}}
-    {{--                                    Your Relaxation</a></h3>--}}
-    {{--                            <p>October 6, 2020by Steve</p>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-team mb-30">--}}
-    {{--                        <div class="team-img">--}}
-    {{--                            <img src="assets/img/gallery/home_blog2.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="team-caption">--}}
-    {{--                            <span>HEALTH & CARE</span>--}}
-    {{--                            <h3><a href="blog.html">The Best SPA Salons For--}}
-    {{--                                    Your Relaxation</a></h3>--}}
-    {{--                            <p>October 6, 2020by Steve</p>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">--}}
-    {{--                    <div class="single-team mb-30">--}}
-    {{--                        <div class="team-img">--}}
-    {{--                            <img src="assets/img/gallery/home_blog3.png" alt="">--}}
-    {{--                        </div>--}}
-    {{--                        <div class="team-caption">--}}
-    {{--                            <span>HEALTH & CARE</span>--}}
-    {{--                            <h3><a href="blog.html">The Best SPA Salons For--}}
-    {{--                                    Your Relaxation</a></h3>--}}
-    {{--                            <p>October 6, 2020by Steve</p>--}}
-    {{--                        </div>--}}
-    {{--                    </div>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-    <!-- Blog Ara End -->
+
+    <!-- ================ contact section start ================= -->
+    <section id="contact-sec" class="contact-section">
+        <div class="container">
+            <div class="d-none d-sm-block mb-5 pb-4">
+                <div id="map" style="height: 400px;"></div>
+                <script>
+                    // Initialize and add the map
+                    function initMap() {
+                        // The location of Uluru
+                        const uluru = { lat: 24.6757131, lng: 46.6808121 };
+                        // The map, centered at Uluru
+                        const map = new google.maps.Map(document.getElementById("map"), {
+                            zoom: 15,
+                            center: uluru,
+                        });
+                        // The marker, positioned at Uluru
+                        const marker = new google.maps.Marker({
+                            position: uluru,
+                            map: map,
+                        });
+                    }
+                </script>
+                <script
+                    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQQkfIgi0W3SJX7KQddC6_k8L7ihvWaUI&callback=initMap&libraries=&v=weekly"
+                    async
+                ></script>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="contact-title">Get in Touch</h2>
+                </div>
+                <div class="col-lg-8">
+                    <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm"
+                          novalidate="novalidate">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9"
+                                              onfocus="this.placeholder = ''"
+                                              onblur="this.placeholder = 'Enter Message'"
+                                              placeholder=" Enter Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <input class="form-control valid" name="name" id="name" type="text"
+                                           onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'"
+                                           placeholder="Enter your name">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <input class="form-control valid" name="email" id="email" type="email"
+                                           onfocus="this.placeholder = ''"
+                                           onblur="this.placeholder = 'Enter email address'" placeholder="Email">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <input class="form-control" name="subject" id="subject" type="text"
+                                           onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'"
+                                           placeholder="Enter Subject">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group mt-3">
+                            <button type="submit" class="button button-contactForm boxed-btn">Send</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-3 offset-lg-1">
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-home"></i></span>
+                        <div class="media-body">
+                            <h3>3267 Makkah Al</h3>
+                            <p>Mukarramah Branch<br>Road, Al Mutamarat,<br>Riyadh 12711 8103</p>
+                        </div>
+                    </div>
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                        <div class="media-body">
+                            <h3>Not Yet Available</h3>
+                            <p>Book and appointment to visit</p>
+                        </div>
+                    </div>
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-email"></i></span>
+                        <div class="media-body">
+                            <h3>Not Yet Available</h3>
+                            <p>Send us your query anytime!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================ contact section end ================= -->
 @endsection
