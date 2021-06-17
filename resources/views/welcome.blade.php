@@ -63,7 +63,7 @@
     <!-- About Details End -->
     <!-- Services Area Start -->
     <div id="services-section" class="services-area section-bg"
-         style="background-image: url('https://images.freeimages.com/images/large-previews/93b/riyadh-city-1451164.jpg');background-size: contain;">
+         style="background-image: url('https://images.freeimages.com/images/large-previews/93b/riyadh-city-1451164.jpg');background-size: cover !important;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -129,7 +129,7 @@
     <!-- ================ contact section start ================= -->
     <section id="contact-sec" class="contact-section">
         <div class="container">
-            <div class="d-none d-sm-block mb-5 pb-4">
+            <div class="mb-5 pb-4">
                 <div id="map" style="height: 400px;"></div>
                 <script>
                     // Initialize and add the map
