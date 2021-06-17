@@ -113,7 +113,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                    <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}"
+                                    <a href="/"><img src="{{ asset('images/polo-logo-thumb.png') }}"
                                                               width="45%" alt=""></a>
                                 </div>
                             </div>
