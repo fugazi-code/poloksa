@@ -147,7 +147,7 @@
                             <span>RELOCATION</span>
                             <h3>
                                 <a href="#">
-                                    Starting <strong>July 1, 2021, POLO-OWWA</strong>
+                                    Starting <strong>July 1, 2021, POLO</strong>
                                     <p>RIYADH AND ERO OFFICES
                                     WILL BE LOCATED IN
                                     3267 Makkah Al Mukarramah Branch<br>Road, Al Mutamarat,<br>Riyadh 12711 8103</p>
