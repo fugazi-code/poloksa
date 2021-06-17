@@ -125,7 +125,42 @@
         </div>
     </div>
     <!-- Services Area End -->
-
+    <!-- Blog Ara Start -->
+    <div id="advisory" class="home-blog-area section-padding30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Section Tittle -->
+                    <div class="section-tittle text-center mb-70">
+                        <span>Advisory</span>
+                        <h2>News and tips</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-team mb-30">
+                        <div class="team-img">
+                            <img src="{{ asset('images/polo-logo-thumb.png') }}" alt="" style="width: 200px !important;">
+                        </div>
+                        <div class="team-caption">
+                            <span>RELOCATION</span>
+                            <h3>
+                                <a href="#">
+                                    Starting <strong>July 1, 2021, POLO-OWWA</strong>
+                                    <p>RIYADH AND ERO OFFICES
+                                    WILL BE LOCATED IN
+                                    3267 Makkah Al Mukarramah Branch<br>Road, Al Mutamarat,<br>Riyadh 12711 8103</p>
+                                </a>
+                            </h3>
+                            <p>2021 by Polo KSA</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog Ara End -->
     <!-- ================ contact section start ================= -->
     <section id="contact-sec" class="contact-section">
         <div class="container">
@@ -135,7 +170,7 @@
                     // Initialize and add the map
                     function initMap() {
                         // The location of Uluru
-                        const uluru = { lat: 24.6757131, lng: 46.6808121 };
+                        const uluru = {lat: 24.6757131, lng: 46.6808121};
                         // The map, centered at Uluru
                         const map = new google.maps.Map(document.getElementById("map"), {
                             zoom: 15,
