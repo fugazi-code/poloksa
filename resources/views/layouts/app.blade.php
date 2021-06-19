@@ -77,7 +77,7 @@
                                                 <li><a href="#">Lifted Suspension</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('complaint.index') }}">Complaint Form</a></li>
+                                        <li><a href="{{ route('complaint.index') }}">Request Assistance Form</a></li>
                                         <li><a href="http://tabang.poloksa-ph.com/login">Tabang System</a></li>
                                         <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
                                                     class="ti-plus"></i> Book an Appointment</a></li>
