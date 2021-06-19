@@ -17,7 +17,7 @@
     <!--Hero End -->
     <!-- About Details Start -->
     <div class="about-details section-padding2">
-        @if(env('APP_DEBUG'))
+        @if(env('COMPLAINT_SECTION'))
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-md-10">
