@@ -24,3 +24,5 @@ Route::get('/about-us', function () {
 Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
+
+Route::resource('complaint', \App\Http\Controllers\ComplaintController::class);

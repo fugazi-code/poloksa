@@ -77,7 +77,7 @@
                                                 <li><a href="#">Lifted Suspension</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Complaint Form</a></li>
+                                        <li><a href="{{ route('complaint.index') }}">Complaint Form</a></li>
                                         <li><a href="http://tabang.poloksa-ph.com/login">Tabang System</a></li>
                                         <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
                                                     class="ti-plus"></i> Book an Appointment</a></li>
@@ -114,7 +114,7 @@
                                 <!-- logo -->
                                 <div class="footer-logo">
                                     <a href="/"><img src="{{ asset('images/polo-logo-thumb.png') }}"
-                                                              width="45%" alt=""></a>
+                                                     width="45%" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +208,6 @@
 <script src="./assets/js/jquery.magnific-popup.js"></script>
 
 <!-- Nice-select, sticky -->
-<script src="./assets/js/jquery.nice-select.min.js"></script>
 <script src="./assets/js/jquery.sticky.js"></script>
 
 <!-- contact js -->
