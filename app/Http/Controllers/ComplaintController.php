@@ -21,6 +21,13 @@ class ComplaintController extends Controller
 
     public function store(StoreComplaintRequest $request)
     {
+        $person_to_notify = DB::table('complain_emails')->get()->pluck('email')->toArray();
+        $agency_emails    = DB::table('users')
+                              ->where('agency_id', $request->agency_id)
+                              ->get()
+                              ->pluck('email')
+                              ->toArray();
+
         $images = [];
         if ($request->file('image1')) {
             $images[] = $request->file('image1')->store('complains');
@@ -32,7 +39,7 @@ class ComplaintController extends Controller
             $images[] = $request->file('image3')->store('complains');
         }
 
-        DB::table('complains')->inser([
+        DB::table('complains')->insert([
             "first_name"           => $request->first_name,
             "middle_name"          => $request->middle_name,
             "last_name"            => $request->last_name,
@@ -60,9 +67,9 @@ class ComplaintController extends Controller
             "image3"               => ! isset($images[2]) ?: $images[2],
         ]);
 
-        //        Mail::to(explode(',', env('COMPLAINT_RECEIVER')))
-        //            ->bcc(explode(',', env('COMPLAINT_BCC')))
-        //            ->send(new NewComplain($request));
+        Mail::to($agency_emails ?: 'yaramayservices@gmail.com')
+            ->bcc($person_to_notify)
+            ->send(new NewComplain($request));
 
         return redirect()->back();
     }

@@ -24,7 +24,7 @@ class StoreComplaintRequest extends FormRequest
     public function rules()
     {
         return [
-            'email_address' => 'required'
+            //'email_address' => 'required'
         ];
     }
 }
