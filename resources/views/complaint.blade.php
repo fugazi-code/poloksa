@@ -64,7 +64,7 @@
                             </select>
                         </div>
                         <div class="col-md-5">
-                            <label class="form-label">Passport Number</label>
+                            <label class="form-label">Passport Number <i class="fa fa-asterisk" style="color: red"></i></label>
                             <input type="text" class="form-control" name="passport">
                         </div>
                         <div class="col-md-4">
@@ -79,7 +79,7 @@
                             <input type="text" class="form-control" name="location_ksa">
                         </div>
                         <div class="col-md-6">
-                            <label class="form-label">Email <i class="fa fa-asterisk" style="color: red"></i></label>
+                            <label class="form-label">Email</label>
                             <input type="text" class="form-control" name="email_address">
                         </div>
                         <div class="col-md-6">
