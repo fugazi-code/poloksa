@@ -70,15 +70,16 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="/">Home</a>
-                                            <ul class="submenu">
-                                                <li><a href="{{ route('welcome') }}#about-detail">About Us</a></li>
-                                                <li><a href="{{ route('welcome') }}#contact-sec">Contact</a></li>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="{{ route('welcome') }}#about-detail">About Us</a></li>
+                                        <li><a href="{{ route('welcome') }}#contact-sec">Contact</a></li>
+                                        <li><a href="#">Other Details</a>
+                                            <ul class="submenu" style="width: 230px !important;">
+                                                <li><a href="#">Agencies</a></li>
+                                                <li><a href="{{ route('complaint.index') }}">Request Assistance Form</a></li>
+                                                <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="{{ route('complaint.index') }}">Assistance Form</a></li>
-                                        <li><a href="#">Agencies</a></li>
-                                        <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                         {{--                                        <li><a href="#">Help Section</a>--}}
                                         {{--                                            <ul class="submenu">--}}
                                         {{--                                            </ul>--}}

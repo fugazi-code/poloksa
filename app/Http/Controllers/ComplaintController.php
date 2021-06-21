@@ -7,6 +7,7 @@ use App\Mail\NewComplain;
 use Illuminate\Http\Request;
 use DB;
 use Illuminate\Support\Facades\Mail;
+use App\Http\Requests\StoreComplaintRequest;
 
 class ComplaintController extends Controller
 {
@@ -18,7 +19,7 @@ class ComplaintController extends Controller
         return view('complaint', compact('agencies', 'heinouses'));
     }
 
-    public function store(Request $request)
+    public function store(StoreComplaintRequest $request)
     {
         $images = [];
         if ($request->file('image1')) {
