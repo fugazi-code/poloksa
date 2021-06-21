@@ -57,10 +57,12 @@
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <!-- Logo -->
-                        <div class="col-xl-2 col-lg-2 col-md-1">
-                            <div class="logo ml-4">
-                                <a href="index.html"><img src="{{ asset('images/polo-logo-thumb.png') }}" width="45%"
-                                                          alt=""></a>
+                        <div class="col-3 col-sm-1">
+                            <div class="logo">
+                                <a href="/">
+                                    <img src="{{ asset('images/polo-logo-thumb.png') }}" class="img-fluid"
+                                                          alt="">
+                                </a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-8">
@@ -221,6 +223,7 @@
 
 <!-- Jquery Plugins, main Jquery -->
 <script src="./assets/js/plugins.js"></script>
+<script src="./assets/js/main.js"></script>
 
 @yield('scripts')
 <!-- Author: Renier R. Trenuela II -->
