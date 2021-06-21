@@ -68,17 +68,19 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="/">Home</a></li>
-                                        <li><a href="#about-detail">About Us</a></li>
-                                        <li><a href="#contact-sec">Contact</a></li>
-                                        <li><a href="#">Agencies</a>
+                                        <li><a href="/">Home</a>
                                             <ul class="submenu">
-                                                <li><a href="#">Blocklist</a></li>
-                                                <li><a href="#">Lifted Suspension</a></li>
+                                                <li><a href="{{ route('welcome') }}#about-detail">About Us</a></li>
+                                                <li><a href="{{ route('welcome') }}#contact-sec">Contact</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('complaint.index') }}">Assistance Form</a></li>
-                                        <li><a href="http://tabang.poloksa-ph.com/login">Tabang System</a></li>
+                                        <li><a href="#">Agencies</a></li>
+                                        <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
+                                        {{--                                        <li><a href="#">Help Section</a>--}}
+                                        {{--                                            <ul class="submenu">--}}
+                                        {{--                                            </ul>--}}
+                                        {{--                                        </li>--}}
                                         <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
                                                     class="ti-plus"></i> Book an Appointment</a></li>
                                         {{--                                        <li class="login"><a href="#">--}}
