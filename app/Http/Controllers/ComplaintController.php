@@ -13,7 +13,7 @@ class ComplaintController extends Controller
 {
     public function index()
     {
-        $agencies  = DB::table('agencies')->select(['id', 'name'])->whereNull('deleted_at')->get();
+        $agencies  = DB::table('agencies')->select(['id', 'name'])->whereNull('deleted_at')->orderBy('name')->get();
         $heinouses = DB::table('heinouses')->select(['id', 'name'])->get();
 
         return view('complaint', compact('agencies', 'heinouses'));
