@@ -227,6 +227,8 @@
 <script src="./assets/js/main.js"></script>
 
 @yield('scripts')
+<script data-ad-client="ca-pub-4525260285402261" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Author: Renier R. Trenuela II -->
 </body>
 </html>
