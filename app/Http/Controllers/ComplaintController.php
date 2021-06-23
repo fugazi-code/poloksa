@@ -21,6 +21,14 @@ class ComplaintController extends Controller
 
     public function store(StoreComplaintRequest $request)
     {
+        $this->validate($request, [
+            'passport' => function ($attribute, $value, $fail) {
+                $cnt = DB::table('complains')->where('passport', $value)->count();
+                if($cnt != 0) {
+                    $fail('You already have submitted a Complaint. Please wait for our response. Thank you!');
+                }
+            },
+        ]);
         $person_to_notify = DB::table('complain_emails')->get()->pluck('email')->toArray();
         $agency_emails    = DB::table('users')
                               ->where('agency_id', $request->agency_id)

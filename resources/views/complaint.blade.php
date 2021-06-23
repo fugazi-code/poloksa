@@ -7,9 +7,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <div class="hero-cap text-center pt-50">
-                        <h2>Request Assistance Form</h2>
-                    </div>
                 </div>
             </div>
         </div>
@@ -26,6 +23,18 @@
                             <span>General Complaint Form</span>
                             <h2>Kung isa kang OFW at kailangan mo ng tulong maari lamang lagdaan ang nararapat na
                                 impormasyon sa ibaba.</h2>
+                        </div>
+                        <h2>Request Assistance Form</h2>
+                        <div style="
+    background-color: #ffbababd;
+    padding-left: 24px;
+    font-size: 17px;
+">
+                            @if($errors->any())
+                                @foreach($errors->all() as $error)
+                                    {!! $error !!}
+                                @endforeach
+                            @endif
                         </div>
                     </div>
                 </div>
