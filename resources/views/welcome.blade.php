@@ -250,7 +250,9 @@
                         <span class="contact-info__icon"><i class="ti-email"></i></span>
                         <div class="media-body">
                             <h3>poloriyadh@dole.gov.ph</h3>
-                            <p>Send us your query anytime!</p>
+                            <p>For administrative concers.</p>
+                            <h3>riyadh@owwa.gov.ph</h3>
+                            <p>For labor/welfare and other employment-related queries, email us</p>
                         </div>
                     </div>
                 </div>
