@@ -61,7 +61,7 @@
                             <div class="logo">
                                 <a href="/">
                                     <img src="{{ asset('images/polo-logo-thumb.png') }}" class="img-fluid"
-                                                          alt="">
+                                         alt="">
                                 </a>
                             </div>
                         </div>
@@ -76,8 +76,19 @@
                                         <li><a href="#">Other Details</a>
                                             <ul class="submenu" style="width: 230px !important;">
                                                 <li><a href="#">Agencies</a></li>
-                                                <li><a href="{{ route('complaint.index') }}">Request Assistance Form</a></li>
+                                                <li><a href="{{ route('complaint.index') }}">Request Assistance Form</a>
+                                                </li>
                                                 <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
+                                                <li>
+                                                    <a href="https://drive.google.com/file/d/14OyGDW0wkIinyABt7DL8uu806tD2jBnf/view?usp=sharing">
+                                                        Household Service Workers Contract
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://drive.google.com/file/d/1hKL7yiHJ12-G_EvQeGtjyxv0fGM42FIF/view?usp=sharing">
+                                                        Skilled Workers Contract
+                                                    </a>
+                                                </li>
                                             </ul>
                                         </li>
                                         {{--                                        <li><a href="#">Help Section</a>--}}
@@ -227,7 +238,8 @@
 <script src="./assets/js/main.js"></script>
 
 @yield('scripts')
-<script data-ad-client="ca-pub-4525260285402261" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-4525260285402261" async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- Author: Renier R. Trenuela II -->
 </body>
