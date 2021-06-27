@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <form method="POST" action="{{ route('complaint.store') }}">
+                <form method="POST" action="{{ route('complaint.store') }}" enctype="multipart/form-data">
                     @csrf
                     <div class="row p-2">
                         <div class="col-md-12">
