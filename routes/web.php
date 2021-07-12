@@ -25,4 +25,4 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
-Route::resource('complaint', \App\Http\Controllers\ComplaintController::class);
+//Route::resource('complaint', \App\Http\Controllers\ComplaintController::class);

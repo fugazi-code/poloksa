@@ -76,12 +76,13 @@
                                         <li><a href="#">Other Details</a>
                                             <ul class="submenu" style="width: 230px !important;">
                                                 <li><a href="#">Agencies</a></li>
-                                                <li><a href="{{ route('complaint.index') }}">Request Assistance Form</a>
+                                                <li>
+{{--                                                    <a href="{{ route('complaint.index') }}">Request Assistance Form</a>--}}
                                                 </li>
                                                 <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                                 <li>
                                                     <a href="https://drive.google.com/file/d/14OyGDW0wkIinyABt7DL8uu806tD2jBnf/view?usp=sharing">
-                                                        Household Service Workers Contract
+                                                        Household Service Workers Contract (BM Contract)
                                                     </a>
                                                 </li>
                                                 <li>
