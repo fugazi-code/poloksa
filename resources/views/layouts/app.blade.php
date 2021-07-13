@@ -75,32 +75,33 @@
                                         <li><a href="{{ route('welcome') }}#contact-sec">Contact</a></li>
                                         <li><a href="#">Other Details</a>
                                             <ul class="submenu" style="width: 230px !important;">
-                                                <li><a href="#">Agencies</a></li>
                                                 <li>
-{{--                                                    <a href="{{ route('complaint.index') }}">Request Assistance Form</a>--}}
+                                                    <a href="#">Agencies</a>
                                                 </li>
+                                                {{-- <li> --}}
+{{--                                                    <a href="{{ route('complaint.index') }}">Request Assistance Form</a>--}}
+                                                {{-- </li> --}}
                                                 <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                                 <li>
-                                                    <a href="https://drive.google.com/file/d/14OyGDW0wkIinyABt7DL8uu806tD2jBnf/view?usp=sharing">
+                                                    <a href="https://drive.google.com/file/d/1JPR8qJV30C7q-UkdwQmWsNg5mvDFZ7CS/view?usp=sharing">
                                                         Household Service Workers Contract (BM Contract)
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="https://drive.google.com/file/d/1hKL7yiHJ12-G_EvQeGtjyxv0fGM42FIF/view?usp=sharing">
+                                                    <a href="https://drive.google.com/file/d/1RMjAeK-XveLn_JlIHt-eoB_V-MlL552b/view?usp=sharing">
                                                         Skilled Workers Contract
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a target="_blank" href="https://drive.google.com/file/d/1w2kjhWLY-43-liEvLXvq8rwcRvYH0uFD/view?usp=sharing">
+                                                        OFW Information Sheet Owwa Membership Application
                                                     </a>
                                                 </li>
                                             </ul>
                                         </li>
-                                        {{--                                        <li><a href="#">Help Section</a>--}}
-                                        {{--                                            <ul class="submenu">--}}
-                                        {{--                                            </ul>--}}
-                                        {{--                                        </li>--}}
-                                        <li class="add-list"><a href="https://appoint.poloksa.com/services/1"><i
-                                                    class="ti-plus"></i> Book an Appointment</a></li>
-                                        {{--                                        <li class="login"><a href="#">--}}
-                                        {{--                                                <i class="ti-user"></i> Sign in or Register</a>--}}
-                                        {{--                                        </li>--}}
+                                        <li class="add-list"><a href="https://appoint.poloksa.com/services/1">
+                                            <i class="ti-plus"></i> Book an Appointment</a>
+                                        </li>
                                     </ul>
                                 </nav>
                             </div>
