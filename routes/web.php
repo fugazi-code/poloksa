@@ -25,4 +25,8 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
+Route::get('/downloadable', function () {
+    return view('downloadables');
+})->name('downloadable');
+
 //Route::resource('complaint', \App\Http\Controllers\ComplaintController::class);

@@ -83,18 +83,8 @@
                                                 {{-- </li> --}}
                                                 <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                                 <li>
-                                                    <a href="https://drive.google.com/file/d/1JPR8qJV30C7q-UkdwQmWsNg5mvDFZ7CS/view?usp=sharing">
-                                                        Household Service Workers Contract (BM Contract)
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="https://drive.google.com/file/d/1RMjAeK-XveLn_JlIHt-eoB_V-MlL552b/view?usp=sharing">
-                                                        Skilled Workers Contract
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a target="_blank" href="https://drive.google.com/file/d/1w2kjhWLY-43-liEvLXvq8rwcRvYH0uFD/view?usp=sharing">
-                                                        OFW Information Sheet Owwa Membership Application
+                                                    <a href="{{ route('downloadable') }}">
+                                                        Contracts and Documents
                                                     </a>
                                                 </li>
                                             </ul>
