@@ -46,17 +46,17 @@
                         <div class="table-row">
                             <div class="serial">3</div>
                             <div class="country">(Standard Contract) Household Service Worker Contract</div>
-                            <div class="visit">RTF</div>
+                            <div class="visit">PDF</div>
                             <div class="percentage">
-                                <a target="_blank" href="https://drive.google.com/file/d/1JPR8qJV30C7q-UkdwQmWsNg5mvDFZ7CS/view?usp=sharing" class="btn btn-info">Download</a>
+                                <a target="_blank" href="https://drive.google.com/file/d/1v2k7XNch4gwqOaVyeXjq5o5AQM8XVTw1/view?usp=sharing" class="btn btn-info">Download</a>
                             </div>
                         </div>
                         <div class="table-row">
                             <div class="serial">4</div>
                             <div class="country">(Standard Contract) Skilled Worker Contract</div>
-                            <div class="visit">RTF</div>
+                            <div class="visit">PDF</div>
                             <div class="percentage">
-                                <a target="_blank" href="https://drive.google.com/file/d/1RMjAeK-XveLn_JlIHt-eoB_V-MlL552b/view?usp=sharing" class="btn btn-info">Download</a>
+                                <a target="_blank" href="https://drive.google.com/file/d/1Q2TDwtAcRhXzqwQP78685ZjQmVy5BqLU/view?usp=sharing" class="btn btn-info">Download</a>
                             </div>
                         </div>
                         <div class="table-row">
