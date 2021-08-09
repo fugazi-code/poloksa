@@ -171,8 +171,8 @@
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer-copy-right">
                             <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                                <a href="https://www.facebook.com/YaraMay-CMS-1471889562872452">
-                                    Yaramay Computer Maintenance Services
+                                <a href="{{ env('APP_LINK') }}">
+                                    {{ env('APP_NAME') }}
                                 </a>
                             </p>
                         </div>
