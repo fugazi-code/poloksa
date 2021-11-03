@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> {{ env('APP_NAME') }}</title>
+    <title>{{ env('APP_NAME') }}</title>
     <meta property="og:title" content="{{ env('APP_NAME') }}">
     <meta property="og:description" content="{{ env('APP_NAME') }}">
     <meta property="og:image" content="{{ asset('images/polo-logo-thumb.png') }}">
@@ -12,6 +12,12 @@
     <meta name="twitter:description" content="{{ env('APP_NAME') }}">
     <meta name="twitter:image" content="{{ asset('images/polo-logo-thumb.png') }}">
     <meta name="twitter:card" content="summary_large_image">
+    
+  <meta charset="UTF-8">
+  <meta name="description" content="{{ env('APP_NAME') }}">
+  <meta name="keywords" content="Philippine, Embassy, Government">
+  <meta name="author" content="Yaramay CMS">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('images/polo-logo-thumb.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('images/polo-logo-thumb.png') }}">
