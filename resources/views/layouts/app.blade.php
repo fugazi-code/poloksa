@@ -12,6 +12,16 @@
     <meta name="twitter:description" content="{{ env('APP_NAME') }}">
     <meta name="twitter:image" content="{{ asset('images/polo-logo-thumb.png') }}">
     <meta name="twitter:card" content="summary_large_image">
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('images/polo-logo-thumb.png') }}">    
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/polo-logo-thumb.png') }}">
 
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
