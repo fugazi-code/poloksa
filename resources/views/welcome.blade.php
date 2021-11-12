@@ -97,9 +97,7 @@
                             <span class="flaticon-problem"></span>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#" style="
-    text-shadow: 0 0 8px black;
-">2. Welfare Support</a></h5>
+                            <h5><a href="#" style="text-shadow: 0 0 8px black;">2. Welfare Support</a></h5>
                             <p>Welfare refers to a range of government programs that provide financial or other aid to
                                 individuals or groups who cannot support themselves.</p>
                         </div>

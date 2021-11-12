@@ -12,7 +12,8 @@
 }
 
 .services-area .single-services .services-cap p {
-    color: #7f88ff !important;
+    color: #FFFFFF !important;
+    text-shadow: 0 0 8px black;
 }
 
 .slider-area .hero__caption span {
