@@ -252,19 +252,7 @@
 <script src="./assets/js/main.js"></script>
 
 @yield('scripts')
-<script data-ad-client="ca-pub-4525260285402261" async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<script type='text/javascript'>
-    (function(d) {
-        var params = { bvpushsubid: 2064358, cb: (new Date()).getTime() };
-        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
-        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
-        var p = 'https:' == document.location.protocol ? 'https' : 'http';
-        s.src = p + "://cdn.hyperpromote.com/bidvertiser/tags/activejs/bdpush.js?" + qs;
-        d.getElementsByTagName('body').item(0).appendChild(s);
-    })(document);
-</script>
 <!-- Author: Renier R. Trenuela II -->
 </body>
 </html>
