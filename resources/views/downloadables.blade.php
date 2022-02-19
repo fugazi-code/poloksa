@@ -45,7 +45,7 @@
                             <div class="country">(BM Contract) Skilled Worker Contract</div>
                             <div class="visit">PDF</div>
                             <div class="percentage">
-                                <a target="_blank" href="https://drive.google.com/file/d/1hKL7yiHJ12-G_EvQeGtjyxv0fGM42FIF/view?usp=sharing" class="btn btn-info">Download</a>
+                                <a target="_blank" href="https://drive.google.com/file/d/1z-BQR-tQe2hX-p73fH5eXdfMRNPqpg_v/view?usp=sharing" class="btn btn-info">Download</a>
                             </div>
                         </div>
                         <div class="table-row">
@@ -61,7 +61,7 @@
                             <div class="country">(Standard Contract) Skilled Worker Contract</div>
                             <div class="visit">PDF</div>
                             <div class="percentage">
-                                <a target="_blank" href="https://drive.google.com/file/d/1Q2TDwtAcRhXzqwQP78685ZjQmVy5BqLU/view?usp=sharing" class="btn btn-info">Download</a>
+                                <a target="_blank" href="https://drive.google.com/file/d/1z-BQR-tQe2hX-p73fH5eXdfMRNPqpg_v/view?usp=sharing" class="btn btn-info">Download</a>
                             </div>
                         </div>
                         <div class="table-row">
