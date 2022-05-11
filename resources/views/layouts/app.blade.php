@@ -109,7 +109,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="add-list"><a href="https://appoint.poloksa.com/services/1">
+                                        <li class="add-list"><a href="http://appoint.poloksa-ph.com/services/1">
                                             <i class="ti-plus"></i> Book an Appointment</a>
                                         </li>
                                     </ul>
