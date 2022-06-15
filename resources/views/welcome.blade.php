@@ -29,37 +29,37 @@
     </div>
     <!--Hero Area End-->
     <!-- About Details Start -->
-{{--    <div id="about-detail" class="about-details section-padding2">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-10 col-md-10">--}}
-{{--                    <!-- Section Tittle -->--}}
-{{--                    <div class="section-tittle section-tittle5 mb-80">--}}
-{{--                        <span>About our company</span>--}}
-{{--                        <h2>Promote and protect the general welfare of Filipino workers abroad.</h2>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row justify-content-between">--}}
-{{--                <div class="col-lg-6">--}}
-{{--                    <h3>Guiding Principles</h3>--}}
-{{--                    <p>The POLO shall provide maximum services to Filipino Migrant Workers to protect their rights and--}}
-{{--                        promote their welfare. In pursuit of this mandate, the POLO shall focus on the following key--}}
-{{--                        areas, namely: employment protection and facilitation, provision of welfare services and skills--}}
-{{--                        enhancement and other training programs, employment promotion and market development, and--}}
-{{--                        linkages with the host government, relevant foreign embassies/consulate, international--}}
-{{--                        organizations, the Filipino community and non-governmental institutions in the post.</p>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-5">--}}
-{{--                    <h3>Plan Overview</h3>--}}
-{{--                    <p>The Philippine Overseas Labor Office (POLO) is the Department of Labor and Employment’s (DOLE)--}}
-{{--                        link to the world. It is directly under the Office of the Secretary of Labor. It acts as the--}}
-{{--                        operating arm of DOLE for the administration and enforcement of its policies and programs--}}
-{{--                        applicable to the Overseas Filipino Workers (OFW).</p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+    {{--    <div id="about-detail" class="about-details section-padding2">--}}
+    {{--        <div class="container">--}}
+    {{--            <div class="row">--}}
+    {{--                <div class="col-lg-10 col-md-10">--}}
+    {{--                    <!-- Section Tittle -->--}}
+    {{--                    <div class="section-tittle section-tittle5 mb-80">--}}
+    {{--                        <span>About our company</span>--}}
+    {{--                        <h2>Promote and protect the general welfare of Filipino workers abroad.</h2>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--            <div class="row justify-content-between">--}}
+    {{--                <div class="col-lg-6">--}}
+    {{--                    <h3>Guiding Principles</h3>--}}
+    {{--                    <p>The POLO shall provide maximum services to Filipino Migrant Workers to protect their rights and--}}
+    {{--                        promote their welfare. In pursuit of this mandate, the POLO shall focus on the following key--}}
+    {{--                        areas, namely: employment protection and facilitation, provision of welfare services and skills--}}
+    {{--                        enhancement and other training programs, employment promotion and market development, and--}}
+    {{--                        linkages with the host government, relevant foreign embassies/consulate, international--}}
+    {{--                        organizations, the Filipino community and non-governmental institutions in the post.</p>--}}
+    {{--                </div>--}}
+    {{--                <div class="col-lg-5">--}}
+    {{--                    <h3>Plan Overview</h3>--}}
+    {{--                    <p>The Philippine Overseas Labor Office (POLO) is the Department of Labor and Employment’s (DOLE)--}}
+    {{--                        link to the world. It is directly under the Office of the Secretary of Labor. It acts as the--}}
+    {{--                        operating arm of DOLE for the administration and enforcement of its policies and programs--}}
+    {{--                        applicable to the Overseas Filipino Workers (OFW).</p>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--        </div>--}}
+    {{--    </div>--}}
     <!-- About Details End -->
     <!-- Services Area Start -->
     <div id="services-section" class="services-area section-bg"
@@ -73,53 +73,53 @@
                     </div>
                 </div>
             </div>
-{{--            <div class="row justify-content-between mt-40">--}}
-{{--                <div class="col-lg-3 col-md-6">--}}
-{{--                    <div class="single-services text-center mb-50">--}}
-{{--                        <div class="services-icon">--}}
-{{--                            <span class="flaticon-list"></span>--}}
-{{--                        </div>--}}
-{{--                        <div class="services-cap">--}}
-{{--                            <h5><a href="#" style="--}}
-{{--    text-shadow: 0 0 8px black;--}}
-{{--">1. Appointment System</a></h5>--}}
-{{--                            <p>With an appointment system, the non-urgent client can schedule their request in advance.--}}
-{{--                                As this eliminates wait times upon arrival, it has a significant impact on the client--}}
-{{--                                experience.</p>--}}
-{{--                        </div>--}}
-{{--                        <!-- Shpape -->--}}
-{{--                        <img class="shape1 d-none d-lg-block" src="assets/img/icon/serices1.png" alt="">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-3 col-md-6">--}}
-{{--                    <div class="single-services text-center mb-50">--}}
-{{--                        <div class="services-icon">--}}
-{{--                            <span class="flaticon-problem"></span>--}}
-{{--                        </div>--}}
-{{--                        <div class="services-cap">--}}
-{{--                            <h5><a href="#" style="text-shadow: 0 0 8px black;">2. Welfare Support</a></h5>--}}
-{{--                            <p>Welfare refers to a range of government programs that provide financial or other aid to--}}
-{{--                                individuals or groups who cannot support themselves.</p>--}}
-{{--                        </div>--}}
-{{--                        <img class="shape2 d-none d-lg-block" src="assets/img/icon/serices2.png" alt="">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-3 col-md-6">--}}
-{{--                    <div class="single-services text-center mb-50">--}}
-{{--                        <div class="services-icon">--}}
-{{--                            <span class="flaticon-respect"></span>--}}
-{{--                        </div>--}}
-{{--                        <div class="services-cap">--}}
-{{--                            <h5><a href="#" style="--}}
-{{--    text-shadow: 0 0 8px black;--}}
-{{--">3. Employment Facilitation</a></h5>--}}
-{{--                            <p> The importance of being equipped with the right labor market information and advised--}}
-{{--                                jobseekers and students alike to be guided by this information as they choose their--}}
-{{--                                career path or profession.</p>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+            {{--            <div class="row justify-content-between mt-40">--}}
+            {{--                <div class="col-lg-3 col-md-6">--}}
+            {{--                    <div class="single-services text-center mb-50">--}}
+            {{--                        <div class="services-icon">--}}
+            {{--                            <span class="flaticon-list"></span>--}}
+            {{--                        </div>--}}
+            {{--                        <div class="services-cap">--}}
+            {{--                            <h5><a href="#" style="--}}
+            {{--    text-shadow: 0 0 8px black;--}}
+            {{--">1. Appointment System</a></h5>--}}
+            {{--                            <p>With an appointment system, the non-urgent client can schedule their request in advance.--}}
+            {{--                                As this eliminates wait times upon arrival, it has a significant impact on the client--}}
+            {{--                                experience.</p>--}}
+            {{--                        </div>--}}
+            {{--                        <!-- Shpape -->--}}
+            {{--                        <img class="shape1 d-none d-lg-block" src="assets/img/icon/serices1.png" alt="">--}}
+            {{--                    </div>--}}
+            {{--                </div>--}}
+            {{--                <div class="col-lg-3 col-md-6">--}}
+            {{--                    <div class="single-services text-center mb-50">--}}
+            {{--                        <div class="services-icon">--}}
+            {{--                            <span class="flaticon-problem"></span>--}}
+            {{--                        </div>--}}
+            {{--                        <div class="services-cap">--}}
+            {{--                            <h5><a href="#" style="text-shadow: 0 0 8px black;">2. Welfare Support</a></h5>--}}
+            {{--                            <p>Welfare refers to a range of government programs that provide financial or other aid to--}}
+            {{--                                individuals or groups who cannot support themselves.</p>--}}
+            {{--                        </div>--}}
+            {{--                        <img class="shape2 d-none d-lg-block" src="assets/img/icon/serices2.png" alt="">--}}
+            {{--                    </div>--}}
+            {{--                </div>--}}
+            {{--                <div class="col-lg-3 col-md-6">--}}
+            {{--                    <div class="single-services text-center mb-50">--}}
+            {{--                        <div class="services-icon">--}}
+            {{--                            <span class="flaticon-respect"></span>--}}
+            {{--                        </div>--}}
+            {{--                        <div class="services-cap">--}}
+            {{--                            <h5><a href="#" style="--}}
+            {{--    text-shadow: 0 0 8px black;--}}
+            {{--">3. Employment Facilitation</a></h5>--}}
+            {{--                            <p> The importance of being equipped with the right labor market information and advised--}}
+            {{--                                jobseekers and students alike to be guided by this information as they choose their--}}
+            {{--                                career path or profession.</p>--}}
+            {{--                        </div>--}}
+            {{--                    </div>--}}
+            {{--                </div>--}}
+            {{--            </div>--}}
         </div>
     </div>
     <!-- Services Area End -->
@@ -136,24 +136,29 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="{{ asset('images/polo-logo-thumb.png') }}" alt="" style="width: 200px !important;">
-                        </div>
-                        <div class="team-caption">
-                            <span>RELOCATION</span>
-                            <h3>
-                                <a href="#">
-                                    Starting <strong>July 1, 2021, POLO</strong>
-                                    <p>RIYADH AND ERO OFFICES
-                                    WILL BE LOCATED IN
-                                    3267 Makkah Al Mukarramah Branch<br>Road, Al Mutamarat,<br>Riyadh 12711 8103</p>
-                                </a>
-                            </h3>
-                            <p>2021 by Polo KSA</p>
-                        </div>
-                    </div>
+                {{--                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">--}}
+                {{--                    <div class="single-team mb-30">--}}
+                {{--                        <div class="team-img">--}}
+                {{--                            <img src="{{ asset('images/polo-logo-thumb.png') }}" alt="" style="width: 200px !important;">--}}
+                {{--                        </div>--}}
+                {{--                        <div class="team-caption">--}}
+                {{--                            <span>RELOCATION</span>--}}
+                {{--                            <h3>--}}
+                {{--                                <a href="#">--}}
+                {{--                                    Starting <strong>July 1, 2021, POLO</strong>--}}
+                {{--                                    <p>RIYADH AND ERO OFFICES--}}
+                {{--                                    WILL BE LOCATED IN--}}
+                {{--                                    3267 Makkah Al Mukarramah Branch<br>Road, Al Mutamarat,<br>Riyadh 12711 8103</p>--}}
+                {{--                                </a>--}}
+                {{--                            </h3>--}}
+                {{--                            <p>2021 by Polo KSA</p>--}}
+                {{--                        </div>--}}
+                {{--                    </div>--}}
+                {{--                </div>--}}
+                <div class="col-md-12">
+                    <object data="{{ asset('Advisory20220613_18284111.pdf') }}" type="application/pdf" width="100%" height="720px">
+                        <p>Alternative text - include a link <a href="{{ asset('Advisory20220613_18284111.pdf') }}">to the PDF!</a></p>
+                    </object>
                 </div>
             </div>
         </div>
