@@ -13,11 +13,11 @@
     <meta name="twitter:image" content="{{ asset('images/polo-logo-thumb.png') }}">
     <meta name="twitter:card" content="summary_large_image">
 
-  <meta charset="UTF-8">
-  <meta name="description" content="{{ env('APP_NAME') }}">
-  <meta name="keywords" content="Philippine, Embassy, Government">
-  <meta name="author" content="Yaramay CMS">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="description" content="{{ env('APP_NAME') }}">
+    <meta name="keywords" content="Philippine, Embassy, Government">
+    <meta name="author" content="Yaramay CMS">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('images/polo-logo-thumb.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('images/polo-logo-thumb.png') }}">
@@ -95,7 +95,7 @@
                                                     <a href="#">Agencies</a>
                                                 </li>
                                                 {{-- <li> --}}
-{{--                                                    <a href="{{ route('complaint.index') }}">Request Assistance Form</a>--}}
+                                                {{--                                                    <a href="{{ route('complaint.index') }}">Request Assistance Form</a>--}}
                                                 {{-- </li> --}}
                                                 <li><a href="http://tabang.poloksa-ph.com">Tabang System</a></li>
                                                 <li>
@@ -106,7 +106,7 @@
                                             </ul>
                                         </li>
                                         <li class="add-list"><a href="http://appoint.poloksa-ph.com/services/1">
-                                            <i class="ti-plus"></i> Book an Appointment</a>
+                                                <i class="ti-plus"></i> Book an Appointment</a>
                                         </li>
                                     </ul>
                                 </nav>
