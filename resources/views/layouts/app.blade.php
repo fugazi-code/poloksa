@@ -6,11 +6,11 @@
     <title>{{ env('APP_NAME') }}</title>
     <meta property="og:title" content="{{ env('APP_NAME') }}">
     <meta property="og:description" content="{{ env('APP_NAME') }}">
-    <meta property="og:image" content="{{ asset('images/polo-logo-thumb.png') }}">
-    <meta property="og:url" content="{{ asset('images/polo-logo-thumb.png') }}">
+    <meta property="og:image" content="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <meta property="og:url" content="{{ asset('images/polo-ksa-logo.jpg') }}">
     <meta name="twitter:title" content="{{ env('APP_NAME') }}">
     <meta name="twitter:description" content="{{ env('APP_NAME') }}">
-    <meta name="twitter:image" content="{{ asset('images/polo-logo-thumb.png') }}">
+    <meta name="twitter:image" content="{{ asset('images/polo-ksa-logo.jpg') }}">
     <meta name="twitter:card" content="summary_large_image">
 
     <meta charset="UTF-8">
@@ -19,20 +19,20 @@
     <meta name="author" content="Yaramay CMS">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ asset('images/polo-logo-thumb.png') }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ asset('images/polo-ksa-logo.jpg') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('images/polo-ksa-logo.jpg') }}">
 
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/polo-logo-thumb.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/polo-ksa-logo.jpg') }}">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Mate+SC&display=swap" rel="stylesheet">
@@ -76,7 +76,7 @@
                         <div class="col-3 col-sm-1">
                             <div class="logo">
                                 <a href="/">
-                                    <img src="{{ asset('images/polo-logo-thumb.png') }}" class="img-fluid"
+                                    <img src="{{ asset('images/polo-ksa-logo.jpg') }}" class="img-fluid"
                                          alt="">
                                 </a>
                             </div>
@@ -137,7 +137,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                    <a href="/"><img src="{{ asset('images/polo-logo-thumb.png') }}"
+                                    <a href="/"><img src="{{ asset('images/polo-ksa-logo.jpg') }}"
                                                      width="45%" alt=""></a>
                                 </div>
                             </div>
