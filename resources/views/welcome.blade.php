@@ -9,7 +9,7 @@
                     <div class="col-xl-8 col-lg-9">
                         <!-- Hero Caption -->
                         <div class="hero__caption">
-                            <span>Department Of Migrant Workers</span>
+                            <span>Migrant Workers Office Appointment</span>
                             <h1>Find Agencies</h1>
                         </div>
                         <!--Hero form -->
