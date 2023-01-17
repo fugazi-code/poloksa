@@ -186,11 +186,16 @@
                 <div class="row d-flex justify-content-between align-items-center">
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer-copy-right">
-                            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+                            <div class="d-flex flex-column">
+
+                            <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>
                                 <a href="{{ env('APP_LINK') }}">
                                     {{ env('APP_NAME') }}
                                 </a>
                             </p>
+
+                            <p><small>Powered by: <a href="/">Hoopoelink</a></small></p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4">
