@@ -24,7 +24,7 @@
                     This means all documents setting forth Authority obligations and responsibilities and includes, but is not limited to, the Proposal, this Agreement, any Amendments and addenda, and all exhibits and schedules attached to such documents.
                 </p>
                 <h3 class="my-5 text-danger">*NOT FOR SALE</h3>
-                <div class="progress-table-wrap">
+                <!-- <div class="progress-table-wrap">
                     <div class="progress-table">
                         <div class="table-head">
                             <div class="serial">No.#</div>
@@ -73,7 +73,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
