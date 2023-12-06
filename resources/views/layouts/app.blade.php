@@ -105,6 +105,42 @@
                                                 </li>
                                             </ul>
                                         </li>
+                                        <li><a href="#">OEC System</a>
+                                            <ul class="submenu" style="width: 230px !important;">
+                                                <li>
+                                                    <a style="display: flex;align-items:center; gap:8px;" rel="noopener noreferrer" referrerpolicy="no-referrer" target="_blank" href="https://etravel.gov.ph/">
+                                                        <div style="width: 24px; height:24px;">
+                                                            <img style="width: 100%" src="https://www.globalexchange.co.uk/images/flag/Philippines.png" alt="PH_logo">
+                                                        </div>
+                                                        <span>E-Travel</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a style="display: flex;align-items:center; gap:8px;" rel="noopener noreferrer" referrerpolicy="no-referrer" target="_blank" href="https://play.google.com/store/apps/details?id=dmw.ofwmobileapp&hl=en&gl=US">
+                                                        <div style="width: 24px; height:24px;">
+                                                            <img style="width: 100%" src="https://pluspng.com/img-png/play-store-logo-png-google-play-store-logo-png-2608-free-transparent-png-logos-1525x1600.png" alt="Playstore_logo">
+                                                        </div>
+                                                        <span>DMWMobile Android</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a style="display: flex;align-items:center; gap:8px;" rel="noopener noreferrer" referrerpolicy="no-referrer" target="_blank" href="https://apps.apple.com/sg/app/dmwmobile/id6446920804">
+                                                        <div style="width: 24px; height:24px;">
+                                                            <img style="width: 100%" src="https://www.bridgeit.dk/wp-content/uploads/2015/07/appleiOSLogo.png" alt="IOS_logo">
+                                                        </div>
+                                                        <span>DMWMobile IOS</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a style="display: flex;align-items:center; gap:8px;" rel="noopener noreferrer" referrerpolicy="no-referrer" target="_blank" href="https://onlineservices.dmw.gov.ph/OnlineServices/(S(jlu1g1mblpy1kvi3r3gcj33p))/POEAOnline.aspx">
+                                                        <div style="width: 24px; height:24px;">
+                                                            <img style="width: 100%" src="https://www.dmw.gov.ph/assets/logo.7e414798.png" alt="DMW_logo">
+                                                        </div>
+                                                        <span>OFW Login</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li class="add-list"><a href="http://appoint.poloksa-ph.com/services/1">
                                                 <i class="ti-plus"></i> Book an Appointment</a>
                                         </li>
