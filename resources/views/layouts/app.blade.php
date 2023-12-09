@@ -230,7 +230,7 @@
                                 </a>
                             </p>
 
-                            <p><small>Powered by: <a href="/">Hoopoelink</a></small></p>
+                            <p><small>Powered by: <a rel="noopener noreferrer" referrerpolicy="no-referrer" href="https://yaramay.com/">Yaramay</a></small></p>
                             </div>
                         </div>
                     </div>
